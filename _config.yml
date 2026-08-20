@@ -1,0 +1,15 @@
+title: baojianjob
+description: 独立开发者主页
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# 关闭默认的博客文章列表首页展示
+show_excerpts: false
+
+# 排除不必要的文件
+exclude:
+  - README.md
+  - .gitignore
