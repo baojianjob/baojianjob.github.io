@@ -23,7 +23,7 @@ If you only read one paragraph, read that one. The rest of this document is the 
 
 This policy applies to the mobile application **DarkBox** (the "App"), developed and published by the individual developer **baojianjob**. It describes how the App handles information related to you when you use it.
 
-The App is intended for general adult users who want to store personal photos, videos and documents encrypted on their own device. It is not designed for children under the age of 13.
+The App is intended for general adult users who want to store personal photos, videos and documents encrypted on their own device. It is not specifically designed for children.
 
 ## 2. What we do NOT collect
 
@@ -100,7 +100,7 @@ Because we do not hold any of your data, the rights to "access, correct, delete 
 
 ## 9. Children's privacy
 
-The App is not designed for children under 13 and does not knowingly collect any personal information from children. If you are the guardian of a minor and believe a child used the App without your consent, please contact us via the address below.
+The App is not specifically designed for children and does not knowingly collect any personal information from children. If you are the guardian of a minor and believe a child used the App without your consent, please contact us via the address below.
 
 ## 10. Changes to this policy
 
