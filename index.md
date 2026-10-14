@@ -17,6 +17,7 @@ title: baojianjob
   - [Privacy Policy (English)](/jiange-legal/privacy-en/)
 
 - **娃有安排** — iOS 课程与健康检查提醒
+  - [法律条款首页](/kidplan-legal/)
   - [用户协议](/kidplan-legal/terms/)
   - [隐私政策](/kidplan-legal/privacy/)
 
